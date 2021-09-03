@@ -69,3 +69,6 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
 };
 // execute function
 fight();
+
+
+hello
